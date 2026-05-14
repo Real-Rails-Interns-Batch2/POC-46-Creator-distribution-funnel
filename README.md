@@ -10,6 +10,7 @@ Icons: Lucide React
 Testing: Jest + Selenium WebDriver (Automated E2E Testing)
 Containerization: Docker
 Deployment Target: Azure Container Apps (ACA)
+
 3. Core Architecture & Directory Structure
 The repository follows a clean, component-based architecture:
 
@@ -21,12 +22,14 @@ FunnelChart.tsx: Renders the main conversion funnel.
 CohortCompare.tsx: Multi-series line chart comparing audience segments over time.
 PlatformSplit.tsx: Donut chart visualizing distribution across platforms (YouTube, Instagram, etc.).
 __tests__/e2e/: Contains dashboard.test.js which spins up a headless Chrome instance to verify critical rendering paths and data handshakes.
+
 4. Quality Assurance Status
 Status: ✅ PASSED
 
 Visual Audit Review (VAR): The UI correctly implements the Master Protocol's design requirements, including dark-mode aesthetics, glassmorphism, and responsive design.
 User Acceptance Testing (UAT): All API data handshakes load correctly, interactive sidebars update dynamically, and data visualizations accurately render the underlying dataset.
 Automated Tests: The Selenium E2E suite successfully passes, confirming the application boots and renders critical components without errors.
+
 5. Containerization & Deployment Readiness
 Status: 🚀 READY FOR PRODUCTION
 
