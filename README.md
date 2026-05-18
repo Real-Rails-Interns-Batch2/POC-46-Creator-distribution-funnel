@@ -37,10 +37,12 @@ Dockerfile: A multi-stage Dockerfile is present, optimized for Next.js productio
 Azure Integration: The repository includes an azure-deploy.sh script, pre-configured to build the Docker image, push it to Azure Container Registry (ACR), and deploy it as a scalable Azure Container App.
 
 Who controls the rails
+
 While platforms like YouTube, TikTok, and X control the top-of-funnel algorithmic distribution rails, you control the destination. Owning the lower-funnel infrastructure—such as newsletters, private communities, or direct monetization channels—is how you reclaim sovereignty from the platforms and build a resilient creator business.
 
 
 Why this matters
+
 Understanding your audience distribution funnel is crucial for translating algorithmic reach into actual business value. By analyzing how "Everyday Viewers" convert into highly-engaged "Builders" and ultimately "Allocators", creators can identify friction points in their ecosystem and optimize their content to maximize lifetime value.
 
 
