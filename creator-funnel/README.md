@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+Why this matters
+Understanding your audience distribution funnel is crucial for translating algorithmic reach into actual business value. By analyzing how "Everyday Viewers" convert into highly-engaged "Builders" and ultimately "Allocators", creators can identify friction points in their ecosystem and optimize their content to maximize lifetime value
+
+Who controls the rails
+While platforms like YouTube, TikTok, and X control the top-of-funnel algorithmic distribution rails, you control the destination. Owning the lower-funnel infrastructure—such as newsletters, private communities, or direct monetization channels—is how you reclaim sovereignty from the platforms and build a resilient creator business.
